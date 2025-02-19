@@ -1,5 +1,6 @@
 ## Concurrent and Parallel Programming
 ***
+- [CPU Count](https://gist.github.com/manwar/655f369b7834ee0697cbfa28d23c8b2c)
 - [Thread Lifecycle](https://gist.github.com/manwar/0c37843a295f8b0d03542c26a3998c63)
 - [Multi-threading](https://gist.github.com/manwar/20ed64db9a881269deee98c7987aa59a)
 - [Multi-processing](https://gist.github.com/manwar/9ed16ea3df2391e123446ef04f0b28a7)
