@@ -13,5 +13,6 @@
 - [Read/Write Lock](https://gist.github.com/manwar/e2915771fb709cc4379abd1d8aba7ea3)
 - [Re-entrant Lock](https://gist.github.com/manwar/d2a18b1609250cef29bf54b998623f54)
 - [Livelock](https://gist.github.com/manwar/82fce643703d449cf395dd34fedbff67)
+- [Future](https://theweeklychallenge.org/blog/future-in-perl)
 - [CPU bound Thread Performance](https://gist.github.com/manwar/7dce3cbc96f4b98229e471bc7e48a0ca)
 - [IO bound Thread Performance](https://gist.github.com/manwar/691de0aa1e1992f9becbb6960c1f9e10)
